@@ -10,8 +10,8 @@
   },
   "dependencies": {
     "@expo/vector-icons": "^13.0.0",
-    "expo": "~48.0.9",
-    "expo-constants": "^14.2.1",
+    "expo": "~51.0.14",
+    "expo-constants": "^14.5.1",
     "expo-status-bar": "~1.4.4",
     "formik": "^2.2.9",
     "react": "18.2.0",
